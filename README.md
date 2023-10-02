@@ -1,6 +1,6 @@
 # Quantum spectral methods for differential equations
 
-Original authors of research paper: A. M. Childs, J.-P. Liu (2021)
+Original authors of research paper: A. M. Childs, J.-P. Liu (2020)
 
 Link to paper: https://link.springer.com/article/10.1007/s00220-020-03699-z
 
